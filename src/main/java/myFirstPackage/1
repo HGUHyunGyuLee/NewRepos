@@ -3,7 +3,7 @@ package myFirstPackage;
 
 import java.util.Scanner;
 
-public class MyFirstClass{
+public class MyFirstClass {
 	public int number;
 	
 	public static void main(String[] args) {
